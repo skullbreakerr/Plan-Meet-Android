@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Plan Meet</string>
+    <string name="item_image">Item Image</string>
+    <string name="item_title_1">Classic (formal) card</string>
+    <string name="item_description">Item Description</string>
+    <string name="link1">https://planmeet-christmass-party.stackblitz.io/</string>
+    <string name="link2">https://planmeet-birthday-party.stackblitz.io/</string>
+    <string name="link3">https://plan-meet-app.stackblitz.io/</string>
+    <string name="show">Show</string>
+    <string name="classic_theme_1">This invitation card is used for Formal Workshops or tech meets.</string>
+    <string name="christmas_theme_2">This invitation card can be used in Christmas season for Party.</string>
+    <string name="birthday_theme_3">This invitation card can be used for Birthday Party Invitation.</string>
+    <string name="item_title3">Birthday Party card</string>
+    <string name="item_title2">Christmas Party card</string>
+    <string name="generate_link">Generate link</string>
+    <string name="lin1k">https://planmeet-christmass-party.stackblitz.io/</string>
+    <string name="from">From</string>
+    <string name="developer">Lazzy_coder</string>
+</resources>
